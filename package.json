@@ -9,7 +9,7 @@
     "epubjs": "^0.3.85",
     "firebase": "^7.3.0",
     "flow-bin": "^0.111.3",
-    "immer": "^5.0.0",
+    "immer": "^8.0.1",
     "node-sass": "^4.13.0",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
